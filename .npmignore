@@ -1,0 +1,36 @@
+# Source files
+credentials/
+nodes/
+test/
+scripts/
+
+# Config files
+.eslintrc.js
+.prettierrc
+tsconfig.json
+gulpfile.js
+jest.config.js
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.idea/
+.vscode/
+
+# Test coverage
+coverage/
+
+# Documentation (keep README)
+CONTRIBUTING.md
+
+# Dev dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
